@@ -1,4 +1,5 @@
 # Setup
+kernel.string=depressive-kernel by holzip
 do.devicecheck=0
 do.modules=0
 do.systemless=1
